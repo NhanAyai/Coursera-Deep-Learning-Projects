@@ -1,2 +1,1 @@
-﻿# Coursera-Deep-Learning-Projects
-A very useful course on the fundamentals of machine learning and deep learning. Good luck, and keep pursuing your passion!
+![Image](https://github.com/user-attachments/assets/203bb41e-efff-4515-a178-c2b58b9fa86e)
